@@ -1,0 +1,16 @@
+{
+  "name": "less-webpack-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jrparish/less-webpack-plugin.git",
+  "author": "Jacob Parish <jacob.parish.1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "chokidar": "^1.7.0",
+    "cssmin": "^0.4.3"
+  },
+  "devDependencies": {
+    "less": "^2.7.2"
+  }
+}
